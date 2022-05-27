@@ -1,6 +1,6 @@
-#**BAWA - A Discord bot
+#BAWA - A Discord bot
 
-##*For moderation, music, trivia and other fun stuff.
+##For moderation, music, trivia and other fun stuff.
 
 FEATURES:
 1. Moderate at ease with BAWA - Ban, Prune, Timeout and so much more.
