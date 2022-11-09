@@ -14,7 +14,7 @@ public class Bot {
     public static void main(String[] args) throws LoginException, InterruptedException {
         JDA bob = JDABuilder.createDefault("Enter your bot token here").build(); //Login to discord with bot
         bob.getPresence().setStatus(OnlineStatus.ONLINE);
-        bob.getPresence().setActivity(Activity.watching("a movie with my daddy wolf"));
+        bob.getPresence().setActivity(Activity.watching("a movie with my wolf"));
         bob.awaitReady();
         bob.addEventListener(new Ping());
         bob.addEventListener(new Info());
