@@ -9,6 +9,3 @@ FEATURES:
 Below mentioned features are yet to be developed 
 3. Trivia - Play with your friends and compete for points.
 4. Fun - (_X_)ε with emoticons etc. <!-- No game will be added that is time consuming and stupid. -->
-
-Features that might be added:
-1. NSFW 
